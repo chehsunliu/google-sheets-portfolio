@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.64",
+    "prettier": "2.8.8"
+  },
+  "scripts": {
+    "fmt": "prettier --write '**/*.ts'"
+  }
+}
